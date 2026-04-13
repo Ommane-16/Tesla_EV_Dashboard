@@ -91,19 +91,15 @@ The dataset includes the following key attributes:
 
 ### 🔹 Overview
 
-![Overview](screenshots/overview.png)
 
 ### 🔹 Infrastructure
 
-![Infrastructure](screenshots/infrastructure.png)
 
 ### 🔹 Model Insights
 
-![Model Insights](screenshots/model_insights.png)
 
 ### 🔹 Model Comparison
 
-![Model Comparison](screenshots/model_comparison.png)
 
 ---
 
